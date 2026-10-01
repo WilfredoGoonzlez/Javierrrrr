@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca de Aula",
+  "description": "Control de libros disponibles y registro de préstamos a estudiantes para la biblioteca de sección.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
